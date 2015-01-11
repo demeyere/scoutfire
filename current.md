@@ -758,5 +758,5 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 739 2012  USA  **Wood Badge Summer 2012**, C1-250-12-2, Fred C Andersen Scout Camp, Houlton, WI  
 740 2013  USA **Many Point Scout Camp Voyageur Week 6 Closing Campfire**, Ponsford MN  
 741 2014  USA **Many Point Scout Camp Voyageur Week 6 Opening Campfire**, Ponsford MN  
-742 2013  USA **Troop 711 Wednesday Night Friendship Fire Many Point Scout Camp Voyageur Week 6**, Ponsford MN  
-743 2013  USA **Many Point Scout Camp Voyageur Week 6 Closing Campfire**, Ponsford MN  
+742 2014  USA **Troop 711 Wednesday Night Friendship Fire Many Point Scout Camp Voyageur Week 6**, Ponsford MN  
+743 2014  USA **Many Point Scout Camp Voyageur Week 6 Closing Campfire**, Ponsford MN  
