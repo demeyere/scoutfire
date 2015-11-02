@@ -763,10 +763,11 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 744 2012  USA  Wood Badge C1-250-12-3, Fred C Anderson Scout Camp, Houlton WI  
 745 2013  USA  Wood Badge C1-250-13-1, Kiwainis Scout Camp, Marine on St Croix, MN  
 746 2013  USA  **Wood Badge C1-250-13-2**, Stearns Scout Camp, Annandale, MN  [Michelle Pitt, Eagle Patrol]  
-747 2015  USA  **Troop 38 Wilson's Cabin at Kabekona Kamp**, Hackensack MN; **Retirement of six American Flags and Friendship Fire**;  
-748 2015  USA  Troop 38 Friendship Fire AND **Order of the Arrow callout** at Metro Lakes Spring Camporee, MN  
-749 2015  USA  **Many Point Scout Camp Voyageur Week 5 Opening Campfire**, Ponsford MN  
-750 2015  USA  **Troop 38 Friendship Fire** and **Flag Retirement Ceremony** at Many Point Scout Camp Week 5, Ponsford MN  
-751 2015  USA  **Many Point Scout Camp Voyageur Week 5 Closing Campfire**, Ponsford MN  
+747 2015  USA  **Troop 38 Wilson's Cabin at Kabekona Kamp**, Hackensack MN; Retirement of six American Flags and Friendship Fire;  
+748 2015  USA  Troop 38 Friendship Fire AND Order of the Arrow callout at Metro Lakes Spring Camporee, MN  
+749 2015  USA  Many Point Scout Camp Voyageur Week 5 Opening Campfire, Ponsford MN  
+750 2015  USA  Troop 38 Friendship Fire** and Flag Retirement Ceremony at Many Point Scout Camp Week 5, Ponsford MN  
+751 2015  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
 752 2015  USA  **Paul E. Wetherin TN16 Order of the Arrow Ceremony Fire** Camp Ajiwah, Wyoming MN  
-753 2015  USA  **Mighty Metro Lakes Fall Camporee Pumpkin Fire** Camp Discovery at Camp Phillippo, Canon Falls  MN
+753 2015  USA  Mighty Metro Lakes Fall Camporee Pumpkin Fire Camp Discovery at Camp Phillippo, Canon Falls  MN
+754 2015  USA  Troop 38 Webelos Welcome Friendship Fire Hidden Falls Park, St. Paul MN
