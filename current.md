@@ -769,5 +769,5 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 750 2015  USA  Troop 38 Friendship Fire** and Flag Retirement Ceremony at Many Point Scout Camp Week 5, Ponsford MN  
 751 2015  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
 752 2015  USA  **Paul E. Wetherin TN16 Order of the Arrow Ceremony Fire** Camp Ajiwah, Wyoming MN  
-753 2015  USA  Mighty Metro Lakes Fall Camporee Pumpkin Fire Camp Discovery at Camp Phillippo, Canon Falls  MN
-754 2015  USA  Troop 38 Webelos Welcome Friendship Fire Hidden Falls Park, St. Paul MN
+753 2015  USA  Mighty Metro Lakes Fall Camporee Pumpkin Fire Camp Discovery at Camp Phillippo, Canon Falls  MN  
+754 2015  USA  Troop 38 Webelos Welcome Friendship Fire Hidden Falls Park, St. Paul MN  
