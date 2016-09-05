@@ -771,5 +771,7 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 752 2015  USA  **Paul E. Wetherin TN16 Order of the Arrow Ceremony Fire** Camp Ajiwah, Wyoming MN  
 753 2015  USA  Mighty Metro Lakes Fall Camporee Pumpkin Fire Camp Discovery at Camp Phillippo, Canon Falls  MN  
 754 2015  USA  Troop 38 Webelos Welcome Friendship Fire Hidden Falls Park, St. Paul MN  
-755 2016  USA  Metro Lakes Spring Camporee and OA Callout at Rum River Scout Camp, MN
-756 2016  USA  Troop 38 Canoe the St Croix weekend friendship fire at Fred C. Anderson Scout Camp, WI
+755 2016  USA  Metro Lakes Spring Camporee and OA Callout at Rum River Scout Camp, MN  
+756 2016  USA  Troop 38 Canoe the St Croix weekend friendship fire at Fred C. Anderson Scout Camp, WI  
+757 2016  USA  Many Point Scout Camp Voyageur Week 5 Opening Campfire, Ponsford MN  
+758 2016  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
