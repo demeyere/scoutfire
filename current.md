@@ -775,3 +775,6 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 756 2016  USA  Troop 38 Canoe the St Croix weekend friendship fire at Fred C. Anderson Scout Camp, WI  
 757 2016  USA  Many Point Scout Camp Voyageur Week 5 Opening Campfire, Ponsford MN  
 758 2016  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
+759 2017  USA  Many Point Scout Camp Voyageur Week 5 Opening Campfire, Ponsford MN  
+760 2017  USA  Many Point Scout Camp Troop 38 Friendship Fire  
+761 2017  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
