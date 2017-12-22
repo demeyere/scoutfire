@@ -779,4 +779,3 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 760 2017  USA  Many Point Scout Camp Troop 38 Friendship Fire  
 761 2017  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
 762 2017  USA  Philmont Scout Camp, NM, Rayado Ridge. Home of Philmont Leadership Challenge (PLC), National Advanced Youth Leadership Experience (NYALE), Wood Badge and Order of the Arrow. At this site since 2008. Ashes collected by Michelle Pitt during the fall PLC in 2017  
-763 2017  USA  **Paul E. Wetherin TN16 Order of the Arrow Conclave Ceremony Fire** Camp Ajiwah, Wyoming MN (pending)  
