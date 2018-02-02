@@ -47,3 +47,4 @@ Just a few highlights of the hundreds of scout fires
 740 2013  USA  **Many Point Scout Camp Voyageur Week 6 Closing Campfire**, Ponsford MN  
 746 2013  USA  **Wood Badge C1-250-13-2**, Stearns Scout Camp, Annandale, MN  [Michelle Pitt, Eagle Patrol]  
 747 2015  USA  **Troop 38 Wilson's Cabin at Kabekona Kamp**, Hackensack MN; **Retirement of six American Flags and Friendship Fire**;  
+764 2017  USA  **Ethan P Eagle Project Veteran's Day Flag Retirement Ceremony** Kordiak Park, Columbia Heights MN; retired over 60 American flags and 6 military branch flags.
