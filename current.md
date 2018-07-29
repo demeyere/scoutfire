@@ -780,3 +780,8 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 761 2017  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
 762 2017  USA  Philmont Scout Camp, NM, Rayado Ridge. Home of Philmont Leadership Challenge (PLC), National Advanced Youth Leadership Experience (NYALE), Wood Badge and Order of the Arrow. At this site since 2008. Ashes collected by Michelle Pitt during the fall PLC in 2017  
 764 2017  USA  **Ethan P Eagle Project Veteran's Day Flag Retirement Ceremony** Kordiak Park, Columbia Heights MN; retired over 60 American flags and 6 military branch flags.
+765 2018  USA  Troop 38 Spring Camporee Cobbler, Red Flag Warning, Stearns Scout Camp;
+766 2018  USA Many Point Scout Camp Voyageur Week 5 Opening Campfire, Ponsford MN  
+767 2018  USA  Many Point Scout Camp Troop 38 Best Cobbler Ever Fire  
+768 2018  USA  Many Point Scout Camp Troop 38 Friendship Fire  
+769 2018  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
