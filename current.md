@@ -787,3 +787,5 @@ You may stash them with memorabilia, as an occasional reminder of your pledge as
 769 2018  USA  Many Point Scout Camp Voyageur Week 5 Closing Campfire, Ponsford MN  
 770 2018  USA  Troop 38 grazing weekend, Swedish torch and cobbler cook off, Fred C Andersen Scout Camp, WI  
 771 2018  USA  Troop 38 Webelos Welcome Friendship Fire Hidden Falls Park, St. Paul MN  
+772 2019  USA  Grey Wolf closing campfire // Eþan and Carter on staff; Fred C Andersen Scout Camp
+773 2019  USA  Grey Wolf ??? patrol friendship fire; Fred C Andersen Scout Camp
