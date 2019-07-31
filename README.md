@@ -19,6 +19,9 @@ fire icon by flaticon.com : http://www.flaticon.com/free-icon/fire_10390
 
 - - -
 
+<img src="https://raw.githubusercontent.com/demeyere/scoutfire/master/imagery/771.jpg" alt="Scoutmaster DeMeyere adding ashes to fire 771." width="400" height="auto" style="border: 1px solid black" />
+
+
 Just a few highlights of the hundreds of scout fires 
 -----------------
 
